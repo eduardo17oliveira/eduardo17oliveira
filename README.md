@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eduardo17oliveira
+- 👀 I’m interested in data science, focused on python, to apply on football studies (players, etc).
+- 🌱 I’m currently learning python and statistcs.
+- 💞️ I’m looking to collaborate on those same things.
+- 📫 How to reach me eduardo17oliveira@gmail.com or @edu17oliveira on twitter or Instagram.
